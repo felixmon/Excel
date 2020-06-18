@@ -5,7 +5,7 @@ https://support.microsoft.com/zh-cn/office/transpose-%e5%87%bd%e6%95%b0-ed039415
 
 ## 多级下拉菜单
 一级菜单决定下一级菜单的内容，举例：一级菜单选择江苏省，那么二级菜单只能出现南京市、苏州市，而不会出现西安市。功能实现的核心：
-1、定义名称
-2、下拉菜单（数据验证-序列）的值采用INDIRECT形式
+1. 定义名称
+2. 下拉菜单（数据验证-序列）的值采用INDIRECT形式
 
 https://zhuanlan.zhihu.com/p/74687468
