@@ -9,3 +9,7 @@ https://support.microsoft.com/zh-cn/office/transpose-%e5%87%bd%e6%95%b0-ed039415
 2. 下拉菜单（数据验证-序列）的值采用INDIRECT形式
 
 https://zhuanlan.zhihu.com/p/74687468
+
+## VLOOKUP 结果如果是空值则不显示0
+在公式后面加一个 &""
+=VLOOKUP(A16,Sheet1!A:B,2,0)&""
