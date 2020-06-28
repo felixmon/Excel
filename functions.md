@@ -12,4 +12,7 @@ https://zhuanlan.zhihu.com/p/74687468
 
 ## VLOOKUP 结果如果是空值则不显示0
 在公式后面加一个 &""
+
+```
 =VLOOKUP(A16,Sheet1!A:B,2,0)&""
+```
