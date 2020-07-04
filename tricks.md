@@ -12,3 +12,7 @@ When the Row Height window appears, you don't need to change the row height...bu
 &""
 ```
 [出处链接](http://club.excelhome.net/thread-823908-1-1.html)
+
+3. 日期格式显示星期
+CTRL + 1 设置格式，选择相近的日期格式，然后切换到自定义格式，在后面加上 AAAA
+[出处链接](https://zhidao.baidu.com/question/2140469591296544868.html)
