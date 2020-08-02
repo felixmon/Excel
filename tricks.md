@@ -19,3 +19,7 @@ When the Row Height window appears, you don't need to change the row height...bu
 CTRL + 1 设置格式，选择相近的日期格式，然后切换到自定义格式，在后面加上 AAAA
 
 [出处链接](https://zhidao.baidu.com/question/2140469591296544868.html)
+
+4. 如何将负的百分数设置为红色括号形式
+
+数字格式设置里，选择自定义，在类型下面的输入框中输入：0.00%;[红色](0.00%);0.00%
